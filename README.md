@@ -8,15 +8,9 @@ d vd fvdf df vdf df df df
 f gnbfg fgn fgn fghnfgn f 
 f ngfn fgn fgn fnfgn fn 
 f ng ngh gh gh gh
-vsdvsdv
-sdv
-sd
-v
-dsv
-dv
-sd
-sv
-sdv
-sdv
-dvs
-dvs
+s dcsd csd csdc sd
+c sdcsdcsdc dsc sdc sdc sdc sd
+ csdc sdc sdc sdc dsc sdc sdc sd csd
+ sd csd csdc sdcsdc sdc dsc sdc sdcsdcsd
+ sdc sdc sdcsdc sdc sdc sdc sdc sdc sd
+ 
